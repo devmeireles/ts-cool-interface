@@ -1,0 +1,1 @@
+![TypeScript Interface relationship](./images/interface.svg)
